@@ -1,0 +1,8 @@
+D:\Training\C#\Day 2\ConApp2\ConApp2\bin\Debug\ConApp2.exe.config
+D:\Training\C#\Day 2\ConApp2\ConApp2\bin\Debug\ConApp2.exe
+D:\Training\C#\Day 2\ConApp2\ConApp2\bin\Debug\ConApp2.pdb
+D:\Training\C#\Day 2\ConApp2\ConApp2\obj\Debug\ConApp2.csproj.AssemblyReference.cache
+D:\Training\C#\Day 2\ConApp2\ConApp2\obj\Debug\ConApp2.csproj.SuggestedBindingRedirects.cache
+D:\Training\C#\Day 2\ConApp2\ConApp2\obj\Debug\ConApp2.csproj.CoreCompileInputs.cache
+D:\Training\C#\Day 2\ConApp2\ConApp2\obj\Debug\ConApp2.exe
+D:\Training\C#\Day 2\ConApp2\ConApp2\obj\Debug\ConApp2.pdb
